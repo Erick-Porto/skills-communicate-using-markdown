@@ -6,6 +6,7 @@
    - [x] Adding a Header
    - [x] Adding an image
    - [x] Adding a Code Example
+   - [x] Adding a Tasklist
 
 ``` python
 message="Hello, World! I'm Erick."
